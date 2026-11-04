@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">行情</string>
+    <string name="widget_desc">黄金 Au99.99 与 BTC / ETH 实时行情</string>
+    <string name="loading">正在获取行情…</string>
+</resources>
